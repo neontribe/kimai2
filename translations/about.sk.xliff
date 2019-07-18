@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-    <file source-language="en" target-language="pt-BR" datatype="plaintext" original="about.en.xliff">
+    <file source-language="en" target-language="sk" datatype="plaintext" original="about.en.xliff">
         <body>
             <trans-unit id="about.title">
                 <source>about.title</source>
-                <target>Sobre o Kimai</target>
+                <target>O Kimai</target>
             </trans-unit>
             <trans-unit id="about.subtitle">
                 <source>about.subtitle</source>
-                <target>Informação do Sistema</target>
+                <target>Systémové informácie</target>
             </trans-unit>
             <trans-unit id="support">
                 <source>support</source>
-                <target>Suporte</target>
+                <target>Support</target>
             </trans-unit>
             <trans-unit id="website">
                 <source>website</source>
-                <target>Homepage</target>
+                <target>Úvodná stránka</target>
             </trans-unit>
             <trans-unit id="help">
                 <source>help</source>
-                <target>Ajuda</target>
+                <target>Dokumentácia</target>
             </trans-unit>
             <trans-unit id="tab.thanks">
                 <source>tab.thanks</source>
-                <target>Agradecimentos especiais</target>
+                <target>Špeciálne poďakovanie</target>
             </trans-unit>
             <trans-unit id="donate">
                 <source>donate</source>
-                <target>Doe para o futuro do Kimai</target>
+                <target>Darujte pre budúcnosť Kimai</target>
             </trans-unit>
             <trans-unit id="published_under">
                 <source>published_under</source>
-                <target>%kimai% é publicado sobre</target>
+                <target>%kimai% je uverejnený pod</target>
             </trans-unit>
             <trans-unit id="special_thanks">
                 <source>special_thanks</source>
-                <target>Agradecimentos especiais vão para …</target>
+                <target>Špeciálne poďakovanie patrí ...</target>
             </trans-unit>
             <trans-unit id="library_authors">
                 <source>library_authors</source>
-                <target>… os autores das seguintes bibliotecas de software, Kimai não seria possível sem você 👍</target>
+                <target>… Autori nasledujúcich softvérových knižníc, Kimai, by bez teba neboli možné 👍</target>
             </trans-unit>
         </body>
     </file>
